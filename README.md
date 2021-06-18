@@ -1,6 +1,6 @@
 # Mod Menu With Memory Hack
 
-Mod Menu with memory hack written in Java, which those functions would be called to lib. GameGuardian values can be used for it. @Lucifer.A requested me to upload his project so I did for him
+Mod Menu with memory hack written in Java, which those functions would be called to lib. GameGuardian values can be used for it. @ LuciferAbhay requested me to upload his project so I did for him
 
 Unfortunately, he have no source code to c++. But it still works, use it for educational purposes, maybe you can find better sources on Github :))
 
